@@ -18,8 +18,8 @@ def get_requirements()->List[str]:
 setup(name='Insurance',
       version='0.0.1',
       description='Insurance Industry lavel project',
-      author='Shivan Kumar',
-      author_email='kshivan848@gmail.com',
+      author='Akash kumar',
+      author_email='singhakash8190@gmail.com',
       packages=find_packages(),
       install_reqires = get_requirements()
      )
